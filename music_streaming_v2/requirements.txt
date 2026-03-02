@@ -1,0 +1,9 @@
+fastapi
+strawberry-graphql[fastapi]
+sqlalchemy[asyncio]
+asyncpg
+alembic
+python-dotenv
+uvicorn
+python-multipart
+python-dateutil
